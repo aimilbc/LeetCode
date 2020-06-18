@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e54c821-e2d3-451a-9f41-330cff1d7f78" name="Default Changelist" comment="added comment">
-      <change beforePath="$PROJECT_DIR$/Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.py" afterDir="false" />
+    <list default="true" id="4e54c821-e2d3-451a-9f41-330cff1d7f78" name="Default Changelist" comment="updated code">
+      <change afterPath="$PROJECT_DIR$/1480.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592456760404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated code">
+      <created>1592456911419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592456911419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,16 +116,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comment" />
+    <MESSAGE value="updated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="399" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592456230986">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="399" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1592456230986" />
-    <state x="285" y="180" key="Vcs.Push.Dialog.v2" timestamp="1592456792110">
+    <state x="285" y="180" key="Vcs.Push.Dialog.v2" timestamp="1592456949464">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="285" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1592456792110" />
+    <state x="285" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1592456949464" />
   </component>
 </project>
