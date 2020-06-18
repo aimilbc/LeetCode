@@ -1,1 +1,3 @@
-print('Test')
+
+name = input('Enter your name: ')
+print('Hello' + name + ' !')
