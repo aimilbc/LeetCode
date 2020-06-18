@@ -1,1 +1,0 @@
-print('This program will sum up elements in a vector as it goes up elements.')
